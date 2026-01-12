@@ -17,7 +17,7 @@ Since the dataset contains **only valid (survived) crop conditions**, a traditio
 
 ## 📂 Project Structure
 
-Cultivated/
+Cultivated
 │
 ├── dataset.csv # Original crop dataset
 ├── model.ipynb # Training & experimentation notebook
