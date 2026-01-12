@@ -15,24 +15,6 @@ Since the dataset contains **only valid (survived) crop conditions**, a traditio
   - Convert anomaly score into a **Survival Rate (%)**
 
 
-## 📂 Project Structure
-
-Cultivated/
-│
-├── dataset.csv # Original crop dataset
-├── model.ipynb # Training & experimentation notebook
-├── gui_app.py # GUI application for prediction
-│
-├── trained_models/ # Saved models and scalers
-│ ├── apple_ocsvm.pkl
-│ ├── apple_scaler.pkl
-│ ├── banana_ocsvm.pkl
-│ ├── banana_scaler.pkl
-│ └── ... (other crops)
-│
-└── README.md
-└── requirements.txt
-
 
 ## 📊 Dataset Description
 
