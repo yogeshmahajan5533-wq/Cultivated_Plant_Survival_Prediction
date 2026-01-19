@@ -17,7 +17,7 @@ Since the dataset contains **only valid (survived) crop conditions**, a traditio
 
 <<<<<<< HEAD
 ## 📂 Project Structure
-
+```
 Cultivated
 │
 ├── dataset.csv # Original crop dataset
@@ -33,9 +33,7 @@ Cultivated
 │
 └── README.md
 └── requirements.txt
-
-=======
->>>>>>> 88e55340f0919c94cb8c0aabb9552d9732e0d3f6
+```
 
 ## 📊 Dataset Description
 
